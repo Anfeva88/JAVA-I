@@ -3,7 +3,7 @@ public class manejoCadena {
     public static void main(String[] args) {
         Scanner cadena = new Scanner(System.in);
 
-        String cad, palabra = "JAVA";
+        String cad, palabra = "Java";
 
         System.out.println("Digita la cadena que quieres evaluar");
         cad = cadena.nextLine();
